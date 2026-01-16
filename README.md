@@ -99,3 +99,16 @@ Once your lab is complete and all tests are passing:
 
 - Push your code to GitHub.
 - Submit the link to your repo through **Canvas using CodeGrade**.
+
+
+# Stacks and Queues Lab
+
+This project demonstrates basic stack and queue data structures in Python.
+
+## How to Run the Project
+
+Run the following command from the project directory:
+
+```bash
+python3 test_structures.py
+```
